@@ -13,7 +13,7 @@ LS_HIGH = 500
 # scale factor of backlight value exponential function
 SCALE = 89
 # exponent scaling factor of backlight exponential function
-EXP = 0.004615
+EXP = 0.15
 # minimum change in sensor intensity before backlight intensity is changed
 TOL = 5
 # time in seconds between successive sensor reads
